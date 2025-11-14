@@ -1,7 +1,9 @@
+<h1 align="center">Sistema Display Hours</h1>
 
-<h1 align="center">System Display Hours</h1>
+<p>Bem-vindo ao repositório do código-fonte do meu sistema! Este site foi criado para testar meus conhecimentos em HTML, CSS e Java Script.</p>
 
-
+**Visite o site:** https://kennyangit.github.io/meuportfolio/
+##
 <h1 align="center"> Preview 🖥️ </h1>
 
 <h3 align="center"> Manhã: </h3>
@@ -29,3 +31,4 @@
    </ul>
    
 </div>
+
